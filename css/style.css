@@ -1,0 +1,173 @@
+/*font-family: 'PT Sans', sans-serif;*/
+
+body {
+	font-family: 'PT Sans', sans-serif;
+	color: #898989;
+}
+
+/*header start*/
+header {
+	background-color: #fcdb00;
+	padding: 15px 0;
+}
+
+.menubar {}
+.menubar ul li a {
+	padding: 0 35px !important;
+	font-size: 22px;
+	font-weight: 700px;
+}
+/*header end*/
+
+
+/*slider start*/
+.slider {
+	background-color: #fcdb00;
+	padding-top: 10px;
+	padding-bottom: 100px;
+}
+
+.inspiration {
+	margin-top: 50px;
+}
+.inspiration h1 {
+	font-weight: 700px;
+	font-size: 32px;
+	color: #010101;
+}
+.inspiration h2 {
+	font-weight: 400px;
+	font-size: 20px;
+	color: #313841;
+}
+.inspiration p {
+	font-size: 16px;
+	color: #555555;
+}
+.inspiration i {
+	font-size: 45px;
+	color: #010101;
+	margin-right: 30px;
+}
+
+.c-ind {
+	position: absolute;
+	right: 0;
+	bottom: -75px;
+}
+
+.c-ind li {
+	width: 15px;
+	height: 15px;
+	border-radius: 50%;
+}
+/*slider end*/
+
+
+
+.service{
+	padding: 100px 0 120px;
+}
+.title{
+	font-size: 32px;
+	color: #010101;
+	font-weight: 700;
+}
+.title_content{
+	font-size: 20px;
+	color: #313841;
+	font-weight: 400;
+	padding: 0 60px;
+}
+.single-icon{
+	font-size: 45px;
+	color:#010101;
+}
+.single-item{
+	margin-top:60px;
+}
+.single_content{
+	padding-top:6px;
+}
+.single-item h1{
+	font-size: 22px;
+    font-weight: 400;
+    color: #010101;
+}
+.single-item p{
+	font-family: 'PT Sans', sans-serif;
+	font-weight: 400;
+    font-size: 16px;
+    color: #898989;
+    letter-spacing: 1px;
+}
+
+.contact{
+	background-color: #010101;
+	padding: 80px 0 60px;
+}
+.contact_title{
+	color: #fcdb00;
+}
+
+form{
+	padding-top:40px;
+
+}
+.c-form{
+	padding: 1.375rem 0.75rem;
+}
+button{
+	background-color: #fcdb00;
+	outline: none;
+	font-size: 16px;
+	color:#010101;
+	font-weight: 700;
+	text-transform: uppercase;
+	padding: 10px 20px;
+	text-align: center;
+	border:1px solid yellow;
+	border-radius: 4px;
+	
+}
+
+.c-padding{
+	padding:0 150px;
+}
+.all_icon{
+	padding: 20px 0 40px;
+	background-color: #010101; 
+}
+.contact_icon i{
+    font-size: 42px;
+    color: #fcdb00;
+}
+
+
+
+/*footer start*/
+
+footer{
+background-color: #010101;
+padding:50px 0 100px;
+}
+address{
+	color:#ffffff;
+}
+.foot{
+    margin: 10px 40px;
+}
+footer ul li a{
+	text-decoration:none;
+	color: #ffffff;
+}
+footer ul li a:hover{
+	text-decoration:none;
+	color: #fcdb00;
+}
+
+.contact-heading p{
+	color: #898989;
+
+
+}
